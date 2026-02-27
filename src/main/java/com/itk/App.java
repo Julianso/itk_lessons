@@ -1,6 +1,6 @@
-package com_itk;
+package com.itk;
 
-import com_itk.lesson._1.string_builder_memento.StringBuilderTest;
+import com.itk.lesson._1.string_builder_memento.StringBuilderTest;
 
 public class App {
     public static void main(String[] args) {

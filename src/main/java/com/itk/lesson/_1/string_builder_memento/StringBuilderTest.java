@@ -1,4 +1,4 @@
-package com_itk.lesson._1.string_builder_memento;
+package com.itk.lesson._1.string_builder_memento;
 
 public class StringBuilderTest {
 
